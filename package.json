@@ -17,13 +17,13 @@
   },
   "homepage": "https://github.com/TheDiscorders/SelfRythm#readme",
   "dependencies": {
-    "@discordjs/opus": "^0.8.0",
+    "@discordjs/opus": "^0.9.0",
     "ascii-table": "0.0.9",
     "discord.js-selfbot": "^12.0.2",
-    "enmap": "^5.8.2",
+    "enmap": "^5.9.8",
     "ffmpeg": "0.0.4",
-    "opusscript": "0.0.7",
-    "youtube-sr": "^4.0.3",
-    "ytdl-core": "^4.0.3"
+    "opusscript": "0.1.0",
+    "youtube-sr": "^4.3.4",
+    "ytdl-core": "^4.11.4"
   }
 }
